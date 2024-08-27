@@ -15,7 +15,7 @@
 
  </div>
  
- <h1 align="center">Buscador de música</h1>
+ <h1 align="center">Buscador de letra música</h1>
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
